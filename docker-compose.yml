@@ -3,6 +3,6 @@ version: "3"
 services:
   react:
     build: .
-    container_name: react-blog-website
+    container_name: react-todo-app
     ports:
       - "3000:3000"
